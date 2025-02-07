@@ -1,6 +1,6 @@
 pipeline{
  environment {
-        dockerUserName="JLimebear"
+        dockerUserName="jlimebear"
         credentialsIdGCP = "lbg-mea-leaders-c24-credentials"
         namespace = "lbg-5"
         // e.g. lbg-1 for learner1, lbg-2 for learner2
